@@ -1,0 +1,1 @@
+Sobre=====Schematics of an FTDI FT232RL USB to serial breakout board.Licença-------ftdifzr by Andre Aureliano <http://www.fiozera.com.br>
